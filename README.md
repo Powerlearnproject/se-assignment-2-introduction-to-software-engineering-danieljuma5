@@ -14,6 +14,22 @@ Software Development Life Cycle (SDLC):
 ## Traditional programming is the conventional approach of writing code to create specific instructions for a computer to follow. It involves explicitly defining every step and condition, leaving no room for the system to learn or adapt independently while Software Development Life Cycle (SDLC) is a process model used to design, develop, test, and maintain the software applications and provides room for adaptation 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+#### 1.  Planning and Requirement Analysis
+#### This crucial stage that involves planning done by the developers at the company.A feasibility study determines whether creating a new or improved system is appropriate. This helps to estimate costs, benefits, resource requirements, and specific user needs.
+
+#### 2.  Design
+#### This stage involves software engineers analyzing requirements and describing in detail functions and operations to enable the developers develop the software with minimal additional input
+#### 3. Implement
+####  The developers begin writing code based on design specifications and dividing the project into software modules and turn the software requirement into code that makes the product.
+#### 4.  Test
+#### This process conducting various test on the software to ensure it meets the quality requirements and software requirements and often runs parallel to the development phase and can help hash out any major user experience issues and security issues.
+
+#### 5. Deploy
+#### This step involves releasing the software to users and consumers can be automated  depending on the type. 
+#### 6. Maintain
+#### In the maintenance phase, among other tasks, the team fixes bugs, resolves customer issues, and manages software changes. In addition, the team monitors overall system performance, security, and user experience to identify new ways to improve the existing software.
+
+
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
