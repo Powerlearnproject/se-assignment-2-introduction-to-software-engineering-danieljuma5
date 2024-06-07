@@ -7,9 +7,11 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Software engineering is the process of identifying implementing and deploying computer applications in order to solve real world problems
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+Traditional programming is the conventional approach of writing code to create specific instructions for a computer to follow. It involves explicitly defining every step and condition, leaving no room for the system to learn or adapt independently while Software Development Life Cycle (SDLC) is a process model used to design, develop, test, and maintain the software applications and provides room for adaptation 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
