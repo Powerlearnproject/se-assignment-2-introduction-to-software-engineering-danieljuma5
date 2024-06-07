@@ -34,6 +34,18 @@ Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
+### Agile development invloves iterative and incremental approach to software development focusing on flexibility, collaboration and focusing on change while waterfall development is a sequential method with distinct phases where each phase depends on the deliverables of the previous stage
+
+Differences betweeen agile and waterfall methodologies
+### 1.  Planning: In waterfall the planning involves linear planning where all processes and requirements are set out at the beginning while agile planning is a continous process with relevant changes as new information and requirements emerge.
+
+### 2.  Speed: Waterfall projects tend to take longer because all requirements must be agreed upon before development can begin. Agile projects, on the other hand, are usually delivered more rapidly than waterfall projects due to the iterative development cycles used in agile.
+
+### 3. Timeframes: Waterfall method is suitable for long-term projects while agile method is suitable for short-term projects.
+
+### 4. Flexibility: agile methodology is quick  and responsive to change while waterfal methodology is resistant to change.
+
+### 5. Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities defined for each team member. In contrast, the agile model empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
