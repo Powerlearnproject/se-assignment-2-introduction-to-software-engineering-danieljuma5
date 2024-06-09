@@ -99,8 +99,31 @@ Why is testing crucial in software development?
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
+### Version control systems are software tools that help software teams manage changes to source code over time by tracking and managing changes to software code.
 
+why are vcs they important in software development?
 
+### 1. A complete long-term change history of every file. This means every change made by many individuals over the years as this history enables going back to previous versions to help in root cause analysis for bugs and it is crucial when needing to fix problems in older versions of software.
+
+### 2. Allows for branching and merging.Creating a "branch" in VCS tools keeps multiple streams of work independent from each other while also providing the facility to merge that work back together, enabling developers to verify that the changes on each branch do not conflict.
+
+### 3. Traceability. Being able to trace each change made to the software and connect it to project management and bug tracking software such as Jira, and being able to annotate each change with a message describing the purpose and intent of the change can help not only with root cause analysis and other forensics allowing developers to make correct and harmonious changes that are in accordance with the intended long-term design of the system.
+
+### 4.Allows for reverting changes: A core benefit is the ability to keep history and revert changes, allowing the developer to easily undo changes. This gives the developer more opportunity to experiment, eliminating the fear of breaking existing code
+
+### 5.Simplifies debugging: Version control can greatly simplify debugging. The application of a test case to multiple versions can quickly identify the change which introduced a bug.The developer need not be familiar with the entire code base and can focus instead on the code that introduced the problem.
+
+Give examples of popular version control systems and their features.
+
+### 1.Git: free and open source distributed version control system designed to help developers manage coding projects.Its features include cheap local branching and convenient staging areas.Staging Area is an intermediate area where commits can be formatted and reviewed prior to completing the commit.
+
+### 2.Mercurial: a free It's free, easy to use,distributed open source version control for handling large projects.Features include codebase management,branching and experimentation version control though it does not have a staging area like git.
+
+### 3. New Relic: Paid,vcs that provides real time tracking of your software alongside version control.Features include the ability to drill down into your data. You can get really granular with your analysis, which is super helpful when you're trying to troubleshoot a specific issue or optimize a particular aspect of your software as well as custom alerting capabilities, so you can stay on top of any issues that arise.
+
+### 4.Unity Version Control: Helps developers solve game development problems.Features inlude built-in capabilities for handling the complexities of game development and system is designed to handle large files and repos as well as optimized workflows for artists and programmers.
+
+### 5. Datadog provides monitoring capabilities you need to see inside your infrastructure at any scale and from anywhere.Features include container monitoring, CI visibility, and database monitoring.
 
 Software Project Management:
 
