@@ -128,7 +128,30 @@ Give examples of popular version control systems and their features.
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+### A software project manager assembles and leads the project team, which consists of developers, analysts, testers, graphic designers, and technical writers
 
+Responsibilities.
+### 1. Project Estimation: Conducts the estimated time, cost and effort estimates for the project.
+
+### 2. Scheduling: After the completion of the estimation of all the project parameters, scheduling for manpower and other resources is done.
+
+### 3. Staffing: Team structure and staffing plans are made.
+
+### 4. Risk Management: Identifies the unanticipated risks that may occur during project development, analyzes the damage that might cause these risks, and take a risk reduction plan to cope with these risks.
+
+### 5. Stakeholder management: Project Managers engage with stakeholders to understand their requirements and expectations.
+
+challenges.
+
+### 1. Inadequate project budget: The project manager will have to make decisions related to specific trade-offs and such budget limitations could threaten the very success of the project
+
+### 2. Lack of accountability: A project team performs really well when every member feels responsible and tries to fulfill the role assigned to them and project managers are responsible for cultivating this within the project team.
+
+### 3. Unrealistic deadlines:  the time constraint not in alignment with the cost and scope
+
+### 4.Scope creep: deviation of the project from the original through addition of new features.
+
+### 5. Inadequate risk management: unforeseen risks and issues can disrupt project progress
 
 Software Maintenance:
 
